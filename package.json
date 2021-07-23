@@ -1,7 +1,6 @@
 {
-  "name": "story-book",
+  "name": "storybooks",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app",
@@ -25,5 +24,14 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "nodemon": "^2.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherry123345/storybooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cherry123345/storybooks/issues"
+  },
+  "homepage": "https://github.com/cherry123345/storybooks#readme",
+  "description": ""
 }
